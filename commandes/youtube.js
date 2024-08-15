@@ -30,7 +30,7 @@ zokou({
        
       let infoMess = {
   image: { url: videos[0].thumbnail },
-  caption: `╭━━Boniphace md downloader menu━━╮
+  caption: `╭━━Photographer md downloader menu━━╮
 *Song Name:* ${videos[0].title}
 
 *Uploaded:* ${videos[0].ago}
@@ -41,7 +41,7 @@ zokou({
 
 Views: ${videos[0].views}`,
         
-  whatsapp: "Join my WhatsApp channel: 'https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G'"
+  whatsapp: "Join my WhatsApp channel: 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f'"
 };
      
 
@@ -179,7 +179,7 @@ zokou({
 
       let InfoMess = {
   image: { url: Element.thumbnail },
-  caption: `╭━━Boniphace md download menu━━╮
+  caption: `╭━━Photographer md download menu━━╮
 *Video Name:* ${Element.title}
 *Uploaded:* ${Element.ago}
 *Author:* ${Element.author.name}
