@@ -41,7 +41,7 @@ zokou (
                 }
 
             } else {
-                repondre('the command only works with audio messages')
+                repondre('the command only works with audio message')
             }
 
         } else {
