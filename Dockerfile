@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Boniphace1/A1 PHOTOGRAPHER-MD.git /root/zokou_BOt
+RUN git clone https://github.com/Boniphace1/PHOTOGRAPHER-MD.git /root/zokou_BOt
 WORKDIR /root/zokou_Bot/
 
 
