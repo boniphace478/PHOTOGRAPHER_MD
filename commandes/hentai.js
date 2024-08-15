@@ -122,7 +122,7 @@ async (origineMessage, zk, commandeOptions) => {
 zokou({
   nomCom: "hentaivid",
   categorie: "Hentai",
-  reaction: "🙄"
+  reaction: "😜"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms ,verifGroupe , superUser} = commandeOptions;
