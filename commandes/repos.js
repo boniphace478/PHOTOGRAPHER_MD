@@ -30,7 +30,7 @@ this is* *Photographer_md.*\n thank you for choosing*
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
 👨‍💻 *OWNER:* *Photographer tech*
-💞 *THEME:* *FRED*
+💞 *THEME:* *BONIPHACE*
 __________________________________
             *Made With Photographer* Tech*`;
 
