@@ -122,7 +122,7 @@ zokou({
   const { arg, repondre,ms , nomAuteurMessage } = commandeOptions;
 
   if (!arg[0] || arg.length !== 1) {
-    repondre("Incorrect use. Example: .emojimix 😀;🥰");
+    repondre("Incorrect use. Example: .emojimix 😀;😂");
     return;
   }
 
