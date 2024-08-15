@@ -10,21 +10,21 @@
   <p align="center">
 <a href="https://github.com/Boniphace1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Boniphace1?label=Followers&style=social"></a>
 <a href="https://github.com/Boniphace1/PHOTOGRAPHER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Boniphace1/photographer-md?&style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
+<a href="https://github.com/Boniphace1/photographer-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Boniphace1/photographer-md?style=social"></a>
+<a href="https://github.com/Boniphace1/photographer-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Boniphace1/photographer-md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{boniphace478}/count.svg" alt="Boniphace-md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Boniphace1}/count.svg" alt="Photographer-md :: Visitor's Count"/></p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/boniphace478/Boniphace-md"><b>Boniphace-md</b></a> Support Deploy On...
+  <a href="https://github.com/Boniphace1/Photographer-md"><b>Photographer-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/boniphace478/Boniphace-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/Boniphace-Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/Boniphace1/Photographer-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Boniphace1/PHOTOGRAPHER-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
