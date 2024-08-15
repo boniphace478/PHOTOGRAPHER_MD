@@ -19,7 +19,7 @@ const devinettes = [
     reponse: "A pencil",
   },
   {
-    question: "I am the beginning of the end, the end of every place. I am the beginning of eternity, the end of time and space. Who am I ?",
+    question: "I'm the beginning of the end, the end of every place. I am the beginning of eternity, the end of time and space. Who am I ?",
     reponse: "The letter 'e'",
   },
   {
