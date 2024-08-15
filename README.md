@@ -9,7 +9,7 @@
 </p>
   <p align="center">
 <a href="https://github.com/Boniphace1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Boniphace1?label=Followers&style=social"></a>
-<a href="https://github.com/Boniphace1/PHOTOGRAPHER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Boniphace1/photographer-md?&style=social"></a>
+<a href="https://github.com/Boniphace1/photographer-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Boniphace1/photographer-md?&style=social"></a>
 <a href="https://github.com/Boniphace1/photographer-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Boniphace1/photographer-md?style=social"></a>
 <a href="https://github.com/Boniphace1/photographer-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Boniphace1/photographer-md?label=Watching&style=social"></a>
 
