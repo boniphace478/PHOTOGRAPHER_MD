@@ -57,13 +57,9 @@ star✨ my repo if you like this bot🤖
 ## 2.SECOND STEP 
 
 
- GET SESSION ID BY
- 
-### HEROKU QR 
+ GET SESSION ID BY 
 
 <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="34.45"/></a></p>
-
-### HEROKU SESSION
  
 <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="34.45"/></a></p>
 
@@ -81,8 +77,6 @@ star✨ my repo if you like this bot🤖
 
 
 ### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
 
    <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=render&logoColor=white'/></a>
