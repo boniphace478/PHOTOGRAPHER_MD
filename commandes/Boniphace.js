@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜  BONIPHACE 𝕄𝔻 ⌟ ❐
+┏❏ ⌜  PHOTOGRAPHER 𝕄𝔻 ⌟ ❐
 ┃ ⿻𝕄𝕠𝕕𝕖: ${mode}
 ┃ ⿻𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ⿻𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣💫 Boniphace cmds
+┣💫 Photographer cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏Bonipjace md
+️┣❏Photographer md
 ┣❏Enjoy life  
 ┗┳━━━━━━━━━━━━┳┛
 ┏┻━━━━━━━━━━━━┻┓
-┃powered by Boniphace Tech
+┃powered by A1 Photographer Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
