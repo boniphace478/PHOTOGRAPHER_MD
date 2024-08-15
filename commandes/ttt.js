@@ -35,7 +35,7 @@ class TicTacToe {
   /**
    * @param player `0` is `X`, `1` is `O`
    *
-   * - `-3` `Game Ended `
+   * - `-3` `Game End `
    * - `-2` `Invalid`
    * - `-1` `Invalid Position`
    * - ` 0` `Position Occupied`
