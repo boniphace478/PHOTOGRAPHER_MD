@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
+  "name":"A1 PHOTOGRAPHER-MD UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By Photographer Tech Contact me 255696497709, Thank you for choose A1 PHOTOGRAPHER-MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/5462ea7070b61eb790caa.jpg",
-  "repository":"https://github.com/boniphace478/BONIPHACE-MD",
+  "logo":"https://telegra.ph/file/6a11e2155910ffa20ca81.jpg",
+  "repository":"https://github.com/Boniphace1/A1 PHOTOGRAPHER-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"A1 PHOTOGRAPHER-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/f660abdbefbae32daeb81.jpg,https://telegra.ph/file/88e429895edf4b088d94d.jpg",
+      "value":"https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg,https://telegra.ph/file/6a11e2155910ffa20ca81.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "PHOTOGRAPHER TECH👑"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255696497709"
 	  
   },
     "WARN_COUNT":
