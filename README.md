@@ -1,15 +1,15 @@
-## BONIPHACE MD
+## PHOTOGRAPHER MD
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+md+Created+by+Boniphace.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/b9261e3c91a2e7f166a0d.jpg">
  <img alt="PHOTOGRAPHER-MD" height="300" src="https://telegra.ph/file/b9261e3c91a2e7f166a0d.jpg">
   
 </h1> 
-<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>PHOTOGRAPHER-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/boniphace478?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?label=Followers&style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace-md?&style=social"></a>
+<a href="https://github.com/Boniphace1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Boniphace1?label=Followers&style=social"></a>
+<a href="https://github.com/Boniphace1/PHOTOGRAPHER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Boniphace1/photographer-md?&style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
 
