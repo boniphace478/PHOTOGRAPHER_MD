@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/boniphace478/BONIPHACE-MD';
-  const img = 'https://telegra.ph/file/5462ea7070b61eb790caa.jpg';
+  const githubRepo = 'https://github.com/Boniphace1/PHOTOGRAPHER-MD';
+  const img = 'https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,18 +22,17 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Boniphace_md.*\n get session id *by*, *pairing code*  https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/pair
+this is* *Photographer_md.*\n thank you for choosing*  
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Boniphace tech*
-💞 *THEME:* *BONIPHACE*
-🥰*ONLY GOD CAN JUDGE ME!👑*
+👨‍💻 *OWNER:* *Photographer tech*
+💞 *THEME:* *FRED*
 __________________________________
-            *Made With Boniphace Tech*`;
+            *Made With Photographer* Tech*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
