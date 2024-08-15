@@ -10,7 +10,7 @@ if (!text) return repondre("Give me location!!");
             textw += `*🌟Weather of  ${text}*\n\n`;
             textw += `*Weather:-* ${wdata.data.weather[0].main}\n`;
             textw += `*Description:-* ${wdata.data.weather[0].description}\n`;
-            textw += `*Avg Temp:-* ${wdata.data.main.temp}\n`;
+            textw += `*Avg Tempe:-* ${wdata.data.main.temp}\n`;
             textw += `*Feels Like:-* ${wdata.data.main.feels_like}\n`;
             textw += `*Pressure:-* ${wdata.data.main.pressure}\n`;
             textw += `*Humidity:-* ${wdata.data.main.humidity}\n`;
