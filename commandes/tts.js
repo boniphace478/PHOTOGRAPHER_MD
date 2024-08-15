@@ -51,7 +51,7 @@ console.log(url);
 zokou( {
   nomCom : "say",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "🔊" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
