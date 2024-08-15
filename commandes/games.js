@@ -136,7 +136,7 @@ Par consequent , le jeu est annuler`, mentions : [auteurMessage, auteurMsgRepond
 
 
 zokou(
-    { nomCom: "quizz", categorie: "Games", reaction: "👨🏿‍💻" },
+    { nomCom: "quizz", categorie: "Games", reaction: "🤔" },
     async (origineMessage, zk, commandeOptions) => {
         const { repondre, auteurMessage } = commandeOptions;
 
