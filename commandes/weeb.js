@@ -101,7 +101,7 @@ async (origineMessage, zk, commandeOptions) => {
 zokou({
   nomCom: "cosplay",
   categorie: "Weeb",
-  reaction: "😏"
+  reaction: "🙄"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
