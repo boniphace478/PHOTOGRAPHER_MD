@@ -48,6 +48,7 @@
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
 👇 👇  👇 👇
+
 <a href="https://github.com/Boniphace1/PHOTOGRAPHER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=orange&style=for-the-badge&logo=msi" width="100" height="34.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
@@ -69,6 +70,7 @@ star✨ my repo if you like this bot🤖
 
 ## 3.THIRD STEP 
 **1. If You Don't Have An Account On Heroku**
+
 <a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Now-orange?style=for-the-badge&logo=heroku" width="100" height="34.45"/></a></p>
 
@@ -81,7 +83,8 @@ star✨ my repo if you like this bot🤖
 ### DEPLOY ON RENDER
 
 1. If you don't have an account in RENDER, create one and deploy.
-    <br>
+
+   <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
