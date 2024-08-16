@@ -2,7 +2,7 @@
   "name":"A1 PHOTOGRAPHER-MD UPDATE BY ME",
   "description":"Best WhatsApp Bot Developed By Photographer 📸 Tech Contact Us 255696497709,255716661569 Thank you for choose A1 PHOTOGRAPHER-MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/6a11e2155910ffa20ca81.jpg",
+  "logo":"https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg",
   "repository":"https://github.com/Boniphace1/PHOTOGRAPHER-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg,https://telegra.ph/file/6a11e2155910ffa20ca81.jpg,https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg",
+      "value":"https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg",
       "required":false
        
      },
