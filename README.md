@@ -87,13 +87,13 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.link/4d9cpj" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/photographer tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
 <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/PHOTOGRAPHER_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
@@ -101,10 +101,10 @@ CONTACT DEVELOPER ON WHATSAPP
 The WhatsApp Bot PHOTOGRAPHER-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
+🌟 THANK YOU FOR CHOOSING A1 PHOTOGRAPHER-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEVELOPERS :
+## DEVELOPER :
 
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
