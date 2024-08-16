@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://github.com/Boniphace1/PHOTOGRAPHER-MD';
-  const img = 'https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg';
+  const img = 'https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,17 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Photographer_md.*\n thank you for choosing*  
+this is* *Boniphace_md.*\n get session id *by*, *pairing code*  
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Photographer tech*
-💞 *THEME:* *BONIPHACE*
+👨‍💻 *OWNER:* *Boniphace tech*
+💞 *THEME:* *GRAPH*
+🥰*ONLY GOD CAN JUDGE ME!👑*
 __________________________________
-            *Made With Photographer* Tech*`;
+            *Made With Photopher Tech*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
