@@ -42,11 +42,11 @@
 
 
 
-## HOW TO DEPLOY BONIPHACE MD
+## HOW TO DEPLOY PHOTOGRAPHER MD
 
 
 ## 1.FIRST STEP 
-## Fork Boniphace Md Repo
+## Fork Photographer Md Repo
 👇 👇  👇 👇
 
 <a href="https://github.com/Boniphace1/PHOTOGRAPHER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=orange&style=for-the-badge&logo=msi" width="100" height="34.45"/></a></p>
@@ -98,7 +98,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
 ## License
 
-The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot PHOTOGRAPHER-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
