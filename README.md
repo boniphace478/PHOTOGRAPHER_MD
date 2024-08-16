@@ -1,7 +1,7 @@
 ## PHOTOGRAPHER MD
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+md+Created+by+Boniphace.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://telegra.ph/file/b9261e3c91a2e7f166a0d.jpg">
- <img alt="PHOTOGRAPHER-MD" height="300" src="https://telegra.ph/file/b9261e3c91a2e7f166a0d.jpg">
+ <a href="https://telegra.ph/file/8eee5b3f8a0d6f7e3561a.jpg">
+ <img alt="PHOTOGRAPHER-MD" height="300" src="https://telegra.ph/file/8eee5b3f8a0d6f7e3561a.jpg">
   
 </h1> 
 <p align="center">l introduce <b>PHOTOGRAPHER-MD</b>, a powerful simple WhatsApp bot </p>
