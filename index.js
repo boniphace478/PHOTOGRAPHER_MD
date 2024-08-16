@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/A1 PHOTOGRAPHER-MD;;;=>/g,"");
+var session = conf.session.replace(/PHOTOGRAPHER-MD;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['A1 PHOTOGRAPHER-MD', "safari", "1.0.0"],
+            browser: ['PHOTOGRAPHER-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{A1 PHOTOGRAPHER Md}...[][]");
+            console.log("\t [][]...{PHOTOGRAPHER-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from : " + nomGroupe);
@@ -812,23 +812,23 @@ ${metadata.desc}\n\n> POWERED BY A1 PHOTOGRAPHER TECH.`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ A1 PHOTOGRAPHER-MD connecting in your account...");
+                console.log("ℹ️ PHOTOGRAPHER-MD connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("✅ A1 PHOTOGRAPHER-MD connected successfully☺️");
+                console.log("✅ PHOTOGRAPHER-MD connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("A1 PHOTOGRAPHER-MD by PHOTOGRAPHER TECH installing cmds😇\n\n");
+                console.log("PHOTOGRAPHER-MD by PHOTOGRAPHER TECH installing cmds😇\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + "Successfully installed A1 PHOTOGRAPHER-MD md commands✔️");
+                            console.log(fichier + "Successfully installed PHOTOGRAPHER-MD md commands✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
@@ -848,12 +848,12 @@ ${metadata.desc}\n\n> POWERED BY A1 PHOTOGRAPHER TECH.`;
                 else {
                     md = "undefined";
                 }
-                console.log("A1 PHOTOGRAPHER-MD successfully connected✅");
+                console.log("PHOTOGRAPHER-MD successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `A1 PHOTOGRAPHER-MD IS RUNNING NOW...
+                let cmsg = `PHOTOGRAPHER-MD IS RUNNING NOW...
     
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
