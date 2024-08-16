@@ -6,7 +6,7 @@ zokou({ nomCom: "test", reaction: "📎", nomFichier: __filename }, async (dest,
     let z = 'Hello my name is  *Photographer md* \n\n ' + "i'm a whatsapp bot multi-device created ";
     let d = ' by *photographer tech*';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg';
+    var img = 'https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -22,6 +22,6 @@ async function  execute  (origineMessage,zok) {
    let z ='Salut je m\'appelle *Hacking* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Thomas*'
       let varmess=z+d
-      var img='https://telegra.ph/file/9c55bce57fb9fd86feec1.jpg'
+      var img='https://telegra.ph/file/9ad400f38bbba04bbea3c.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
