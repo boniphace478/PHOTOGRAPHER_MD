@@ -97,7 +97,7 @@ photograph md cmds𒈒
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃💫 ${cmd}`;
+┃📸 ${cmd}`;
 
         }
 
@@ -134,7 +134,7 @@ photograph md cmds𒈒
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *XPHOTOGRAPHER-MD*, déveloper Fredie" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *XPHOTOGRAPHER-MD*, déveloper boniphace" , gifPlayback : true }, { quoted: ms });
 
     }
 
